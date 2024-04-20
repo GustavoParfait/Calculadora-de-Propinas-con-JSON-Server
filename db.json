@@ -1,0 +1,10 @@
+{
+    "Platillos": [
+        {
+            "id": 1,
+            "name": "Pizza a la Leña",
+            "price": 6000,
+            "category": 1
+        }
+    ]
+}
